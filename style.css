@@ -1,0 +1,39 @@
+body{
+    background-color: darkmagenta;
+}
+
+.heading{
+    background-color: darkturquoise;
+}
+
+h2 {
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+#webcam_view{
+    background-color: white;
+    color: green;
+}
+
+#snapshot{
+    background-color: white;
+    color: green;
+}
+
+.snapshot{
+    background-color: darkcyan;
+    color: white;
+}
+
+.predict_emoji{
+    background-color:dodgerblue;
+    color: white;
+}
+
+span{
+    font-size:x-large;
+}
